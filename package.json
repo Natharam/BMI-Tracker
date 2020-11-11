@@ -1,8 +1,7 @@
 {
-  "name": "bmical",
+  "name": "bmi-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://GermaVinsmoke.github.io/bmi-calculator",
   "dependencies": {
     "chart.js": "^2.9.4",
     "materialize-css": "1.0.0",
