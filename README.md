@@ -5,11 +5,9 @@ Standard Body Mass Index calculator. ... Body mass index (BMI) is a measure of b
 
 Created with _create-react-app_. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Install
+This app is Live at https://bmi-tracker.netlify.app/
 
-`npm install`
+In the project directory, you can run:
 
-## Usage
-
-`npm start`
+'yarn start' to start(run) this project.
 
